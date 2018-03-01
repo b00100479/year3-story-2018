@@ -9,5 +9,8 @@ https://github.com/b00100479/year3-story-2018.git
 5. Vendor file added to .gitignore, chapter02 and chapter03 edited and pushed with get cimmand to Git cloud.
 6. Chapter01, 02 and 03 edited and pushed with git command to Git cloud.
 7. Chapter01 finished, chapter 02 and 03 edited and pushed with git command to Git cloud.
-8. Release 1 created.
+8. Release 1.0 created.
 9. Chapter 2 finished, few words added to chapter 3.
+10. Release 2.0 created.
+11. Chapter 3 finished.
+12. Release 3.0 created
