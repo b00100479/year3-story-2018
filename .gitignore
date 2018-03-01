@@ -1,4 +1,5 @@
 .idea
+vendor
 
 # Windows thumbnail cache files
 Thumbs.db
