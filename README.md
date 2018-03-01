@@ -2,6 +2,11 @@
 
 https://github.com/b00100479/year3-story-2018.git
 
+<a href="https://b00100479.github.io/year3-story-2018/chapter01"> Chapter 1 </a><br>
+<a href="https://b00100479.github.io/year3-story-2018/chapter02"> Chapter 2 </a><br>
+<a href="https://b00100479.github.io/year3-story-2018/chapter03"> Chapter 3 </a><br>
+<br>
+
 1. Git story repository created \ readme file updated with URL
 2. Files .gitignore, chapter01.html, chapter02.html, chapter03.html created in textpad and pushed with git command line to Git cloud.
 3. Added story to chapter 1 and few words to chapter 2 and 3 and pushed with git command to Git cloud
