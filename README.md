@@ -10,7 +10,7 @@ https://github.com/b00100479/year3-story-2018.git
 
 Alternative ending for chapter 3:
 
-<a href="https://b00100479.github.io/year3-story-2018/chapter03"> Chapter 3 </a>
+<a href="https://b00100479.github.io/year3-story-2018/alternative_ending/chapter03"> Chapter 3 </a>
 
 
 1. Git story repository created \ readme file updated with URL
