@@ -13,4 +13,6 @@ https://github.com/b00100479/year3-story-2018.git
 9. Chapter 2 finished, few words added to chapter 3.
 10. Release 2.0 created.
 11. Chapter 3 finished.
-12. Release 3.0 created
+12. Release 3.0 created.
+13. Alternative_ending branch created.
+14. Chapter 3 edited on alternative_ending with git command.
