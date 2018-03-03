@@ -1,12 +1,19 @@
 # year3-story-2018
+Tomasz Mlodzianowski<br>
+B00100479
 
-https://github.com/b00100479/year3-story-2018.git
+<a href="https://b00100479.github.io/year3-story-2018/">Link to Github pages</a><br>
 
+<h2>Chapters links</h2>
 <a href="https://b00100479.github.io/year3-story-2018/chapter01"> Chapter 1 </a><br>
 <a href="https://b00100479.github.io/year3-story-2018/chapter02"> Chapter 2 </a><br>
-<a href="https://b00100479.github.io/year3-story-2018/chapter03"> Chapter 3 </a><br>
+<a href="https://b00100479.github.io/year3-story-2018/chapter03"> Chapter 3 </a>
+<a href="https://github.com/b00100479/year3-story-2018/blob/alternative_ending/chapter03.html"> Chapter 3 Alternative end
+</a>
+<br>
 <br>
 
+<h2>Work History:</h2>
 1. Git story repository created \ readme file updated with URL
 2. Files .gitignore, chapter01.html, chapter02.html, chapter03.html created in textpad and pushed with git command line to Git cloud.
 3. Added story to chapter 1 and few words to chapter 2 and 3 and pushed with git command to Git cloud
@@ -21,3 +28,5 @@ https://github.com/b00100479/year3-story-2018.git
 12. Release 3.0 created.
 13. Alternative_ending branch created.
 14. Chapter 3 edited on alternative_ending with git command.
+15. Formating added.
+ 
