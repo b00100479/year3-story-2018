@@ -27,3 +27,4 @@ Alternative ending for chapter 3:
 12. Release 3.0 created.
 13. Alternative_ending branch created.
 14. Chapter 3 edited on alternative_ending with git command.
+15. Formating added.
